@@ -1,0 +1,10 @@
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+ms-vscode.vscode-typescript-next
+ms-azuretools.vscode-docker
+eamodio.gitlens
+ritwickdey.LiveServer
+mhutchie.git-graph
+pkief.material-icon-theme
+formulahendry.auto-rename-tag
+formulahendry.auto-close-tag
